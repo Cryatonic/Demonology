@@ -1,2 +1,2 @@
 # Demonology
-Minecraft Mod: Demonology
+Minecraft Mod: Demonology LOLOL
