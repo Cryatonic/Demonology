@@ -1,0 +1,28 @@
+
+	Basic Idea: Power at a cost; demon magic isn't all fun and games, there's a give and take to such forbidden doings.
+		-Make contracts with demons for powers, but at a cost.
+		-Can overtake demons and reclaim your contract.
+		-Advancing to next tier has a cost; you must decide if you wish to further your conections to the Demon World.
+		-Souls are your bread-and-butter. Need souls to cast magic; later on, souls are also your sustinance.
+
+
+
+Ideas:
+	Story-
+	Questline-
+	Demons-
+		+Can make contracts with demons for spells, but at a cost.
+		+Can overthrow demons that have contracts with you to reclaim your contracts.
+		+Spells give by demons may have reprocussions, but can be permanently learned with no reprocussions if you overthrow the demon.
+	Spells and Weapons-
+		+Spells cost Soul power.
+		+Spells obtained from Demons may reprocussions for use in certain situations.
+	Biomes and Blocks(?)-
+	Becoming a Demon-
+		+Tiers of Demonhood; with every step up, some humanity is lost, at the higher tiers all humanity is lost.
+		+Souls required for spells and later sustinance.
+			-Souls aquired by contracts with NPCs.
+			-Demon souls can be aquired by killing demons or making contracts with lesser demons; worth more than reqular Soul.
+			-Can make contracts with stronger demons for a payment of Souls.
+		+As you progress, your human body mutates, showing your connection to the Demon World.
+			-You can disguise as a regular human, at a rate of Soul power.
