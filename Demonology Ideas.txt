@@ -10,26 +10,32 @@
 Ideas:
 	Story-
 	Questline-
+		+To start your journey in Demonology, must create a Demonology Grimoire, then summon one of the weakest demons and make a contract. 
 	Demons-
 		+Can make contracts with demons for spells, but at a cost.
 		+Can overthrow demons that have contracts with you to reclaim your contracts.
-		+Spells give by demons may have reprocussions, but can be permanently learned with no reprocussions if you overthrow the demon.
+		+Spells given by demons may have reprocussions, but can be permanently learned with no reprocussions if you overthrow the demon.
 	Spells and Weapons-
 		+Spells cost Soul power.
 		+Spells obtained from Demons may reprocussions for use in certain situations.
 	Biomes and Blocks(?)-
+		+Seven Levels of Hell
 	Becoming a Demon-
 		+Tiers of Demonhood; with every step up, some humanity is lost, at the higher tiers all humanity is lost.
 			-All humanity is lost upon becoming a true demon.
 		+True Demon is when all humanity is lost and one becomes a full demon.
 			-True Demons have a True Demon Form, which gives them certain buffs depending on which type is chosen.
+			-Once a True Demon, uses True Demon model and must disguise to look like a human.
 			-Types of True Demon are:
 				LOOK IN TRUE DEMON TYPE TAB
 		+Souls required for spells and later sustinance.
 			-Souls aquired by contracts with NPCs.
+				+Only a small percent chance a villager is willing to make a contract.
 			-Demon souls can be aquired by killing demons or making contracts with lesser demons; worth more than reqular Soul.
 			-Can make contracts with stronger demons for a payment of Souls.
 		+As you progress, your human body mutates, showing your connection to the Demon World.
 			-You can disguise as a regular human, at a rate of Soul power.
+			-As you become more mutated, villagers will stop trading with you and eventually flee from you.
+			-Once you become a True Demon, then one no longer appears mutated.
 	True Demon Types:
 		+
