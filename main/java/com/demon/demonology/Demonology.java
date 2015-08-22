@@ -12,6 +12,9 @@ public class Demonology
 	@Mod.Instance("Demonology")
 	public static Demonology instance;
 	
+	@SidedProxy(clientSide = "com.demon.demonology.proxy.ClientProxy", serverSide = "com.demon.demonology.proxy.ServerProxy")
+	public static IProxy proxy;
+	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) 
 	{
