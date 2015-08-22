@@ -20,9 +20,16 @@ Ideas:
 	Biomes and Blocks(?)-
 	Becoming a Demon-
 		+Tiers of Demonhood; with every step up, some humanity is lost, at the higher tiers all humanity is lost.
+			-All humanity is lost upon becoming a true demon.
+		+True Demon is when all humanity is lost and one becomes a full demon.
+			-True Demons have a True Demon Form, which gives them certain buffs depending on which type is chosen.
+			-Types of True Demon are:
+				LOOK IN TRUE DEMON TYPE TAB
 		+Souls required for spells and later sustinance.
 			-Souls aquired by contracts with NPCs.
 			-Demon souls can be aquired by killing demons or making contracts with lesser demons; worth more than reqular Soul.
 			-Can make contracts with stronger demons for a payment of Souls.
 		+As you progress, your human body mutates, showing your connection to the Demon World.
 			-You can disguise as a regular human, at a rate of Soul power.
+	True Demon Types:
+		+
