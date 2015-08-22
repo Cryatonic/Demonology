@@ -1,4 +1,4 @@
-package Cryatonic.Demon;
+package cryatonic.demonology;
 
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
@@ -11,7 +11,7 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 
-@Mod(modid = "Demon", name = "Demonology", version = "0.01")
+@Mod(modid = "Demon", name = "Demonology", version = "1.7.10")
 public class Demon {
 	
 	public static Item itemTest2;
