@@ -11,6 +11,11 @@ public class BlockComDiam extends Block {
 		this.setBlockTextureName("demon:ComDiam");
 		this.setResistance(30.0F);
 		this.setHardness(3.0F);
+		this.setHarvestLevel();
+	}
+
+	private void setHarvestLevel() {
+		
 	}
 
 }

@@ -1,4 +1,4 @@
-package cryatonic.demonology;
+package Cryatonic.Demon;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -13,7 +13,7 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 
-@Mod(modid = "Demon", name = "Demonology", version = "1.7.10")
+@Mod(modid = "Demon", name = "Demonology", version = "0.01")
 public class Demon {
 	
 	public static Item itemTest2;
@@ -31,6 +31,7 @@ public class Demon {
 		
 		
 		GameRegistry.registerItem(itemTest2, itemTest2.getUnlocalizedName().substring(5));
+		
 		GameRegistry.registerBlock(blockComDiam, blockComDiam.getUnlocalizedName().substring(5));
 		System.out.println(blockComDiam.getUnlocalizedName().substring(5));
 	}
