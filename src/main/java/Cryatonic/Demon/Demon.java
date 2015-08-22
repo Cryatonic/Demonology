@@ -1,6 +1,9 @@
 package Cryatonic.Demon;
 
+import net.minecraft.init.Blocks;
+import net.minecraft.init.Items;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -26,7 +29,10 @@ public class Demon {
 	@EventHandler
 	public void init(FMLInitializationEvent event) {
 		//Proxy, TileEntity, entity, GUI and Packet Registering
-		
+		GameRegistry.addRecipe(new ItemStack(itemTest2), new Object[]{"   "," O ","O  ", 'O', Blocks.obsidian});
+		GameRegistry.addRecipe(new ItemStack(itemTest2), new Object[]{"   ","  O"," O ", 'O', Blocks.obsidian});
+		GameRegistry.addRecipe(new ItemStack(itemTest2), new Object[]{" O ","O  ","   ", 'O', Blocks.obsidian});
+		GameRegistry.addRecipe(new ItemStack(itemTest2), new Object[]{"  O"," O ","   ", 'O', Blocks.obsidian});
 	}
 	
 	@EventHandler
