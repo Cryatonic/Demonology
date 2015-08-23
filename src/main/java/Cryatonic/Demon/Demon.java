@@ -5,6 +5,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.Item;
+import net.minecraft.item.Item.ToolMaterial;
 import net.minecraft.item.ItemStack;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -17,7 +18,9 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public class Demon {
 	
 	public static Item itemTest2;
+	
 	public static Block blockComDiam;
+	
 	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
