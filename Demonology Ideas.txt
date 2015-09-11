@@ -18,6 +18,11 @@ Ideas:
 	Spells and Weapons-
 		+Spells cost Soul power.
 		+Spells obtained from Demons may reprocussions for use in certain situations.
+		+Spells are saved in you Demonology Grimoire.
+		+Hot key to open Magic Inventory and Spell Hot Bar.
+			-Magic Inventory holds all one's spells.
+			-Can drag spells into 9 hotbar slots for Hot Bar Spells.
+			-When using Spell Hot Bar, one has an empty hand.
 	Biomes and Blocks(?)-
 		+Seven Levels of Hell
 	Becoming a Demon-
@@ -39,3 +44,79 @@ Ideas:
 			-Once you become a True Demon, then one no longer appears mutated.
 	True Demon Types:
 		+
+
+	Soul Value:
+		+Human:
+		  lvl 1: 500 SP
+		  lvl 2: 650 SP
+		  lvl 3: 1000 SP
+		  lvl 4: 1500 SP
+		  lvl 5: 3000 SP
+		  lvl 6: 5000 SP
+		  lvl 7: 10000 SP
+		  lvl 8: 15000 SP
+		  lvl 9: 20000 SP
+		  lvl 10: 30000 SP
+			-Only Demon Hunters can have souls lvl 6 and up.
+		+Demon:
+		  lvl 1: 1000 SP
+		  lvl 2: 1500 SP
+		  lvl 3: 2500 SP
+		  lvl 4: 3500 SP
+		  lvl 5: 5000 SP
+		  lvl 6: 6500 SP
+		  lvl 7: 8500 SP
+		  lvl 8: 10000 SP
+		  lvl 9: 20000 SP
+		  lvl 10: 30000 SP
+		  lvl 11: 42000 SP
+		  lvl 12: 52000 SP
+		  lvl 13: 62000 SP
+
+	Soul Capacity:
+		  lvl 0: 100 SP
+		  lvl 1: 300 SP
+		  lvl 2: 600 SP
+		  lvl 3: 800 SP
+		  lvl 4: 1200 SP
+		  lvl 5: 2000 SP
+		  lvl 6: 4000 SP
+		  lvl 7: 7500 SP
+		  lvl 8: 10000 SP
+		  lvl 9: 20000 SP
+		  lvl 10: 30000 SP
+		  lvl 11: 50000 SP
+		  lvl 12: 75000 SP
+		  lvl 13: 100000 SP
+
+	Spell List:
+		+Human Disguise: Disguise as a human.
+			-Soul Cost: 0.25 SP/Minute
+			-Required Level: 1
+		+Twist Flesh: Twist their flesh, dealing armour-piercing damage.
+			-Damage: 2+1(lvl)
+			  lvl 5: 4+1.5(lvl)
+			-Soul Cost: 50 SP/use +50 SP(lvl)
+			-Required Level: 2
+		+Twist Limb: Twist a limb, causing slowness and weakness
+			-Damage: 4+1(lvl)
+			  lvl 1-4: Slowness I and Weakness I; lasts 5+1.5(lvl) seconds
+			  lvl 5-8: Slowness II and Weakness II; lasts 10+2(lvl) seconds
+			  lvl 9-13: Slowness III and Weakness III; lasts 10+2(lvl) seconds
+			-Soul Cost: 500 SP/use +100(lvl)
+			-Required Level: 3
+		+Charm Mob: Most mobs will follow you and protect you.
+			  lvl 1-4: Lasts 300+6(lvl) seconds
+			  lvl 5-8: Lasts 360+8(lvl) seconds
+			  lvl 9-13: Lasts 420+10(lvl) seconds
+			-Soul Cost: 100 SP/use +50(lvl)
+			-Required Level: 1
+		+Enthrall Mob: Most mobs will follow and protect you permanently.
+			  lvl 2: Max mobs=2
+			  lvl 4: Max mobs=4
+			  lvl 6: Max mobs=10
+			  lvl 8: Max mobs=24
+			  lvl 10: Max mobs=32
+			  lvl 12: Max mobs=50
+			-Soul Cost: 400 SP/use +100(lvl)
+			-Required Level: 2
