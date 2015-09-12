@@ -73,21 +73,21 @@ Ideas:
 		  lvl 12: 52000 SP
 		  lvl 13: 62000 SP
 
-	Soul Capacity:
-		  lvl 0: 100 SP
-		  lvl 1: 300 SP
-		  lvl 2: 600 SP
-		  lvl 3: 800 SP
-		  lvl 4: 1200 SP
-		  lvl 5: 2000 SP
-		  lvl 6: 4000 SP
-		  lvl 7: 7500 SP
-		  lvl 8: 10000 SP
-		  lvl 9: 20000 SP
-		  lvl 10: 30000 SP
-		  lvl 11: 50000 SP
-		  lvl 12: 75000 SP
-		  lvl 13: 100000 SP
+	Soul Capacity:				Soul Consumption Efficiency: adds a bonus to total amount of SP gained from Souls.
+		  lvl 0: 100 SP				+0%
+		  lvl 1: 300 SP				+2%
+		  lvl 2: 600 SP				+4%
+		  lvl 3: 800 SP				+8%
+		  lvl 4: 1200 SP			+12%
+		  lvl 5: 2000 SP			+18%
+		  lvl 6: 4000 SP			+22%
+		  lvl 7: 7500 SP			+27%
+		  lvl 8: 10000 SP			+32%
+		  lvl 9: 20000 SP			+35%
+		  lvl 10: 30000 SP			+40%
+		  lvl 11: 50000 SP			+45%
+		  lvl 12: 75000 SP			+50%
+		  lvl 13: 100000 SP			+60%
 
 	Spell List:
 		+Human Disguise: Disguise as a human.
