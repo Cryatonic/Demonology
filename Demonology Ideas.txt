@@ -23,6 +23,7 @@ Ideas:
 			-Magic Inventory holds all one's spells.
 			-Can drag spells into 9 hotbar slots for Hot Bar Spells.
 			-When using Spell Hot Bar, one has an empty hand.
+		+Hot key to open toggleable abilities to make activating certain ablilities quicker and easier.
 	Biomes and Blocks(?)-
 		+Seven Levels of Hell
 	Becoming a Demon-
@@ -33,6 +34,7 @@ Ideas:
 			-Once a True Demon, uses True Demon model and must disguise to look like a human.
 			-Types of True Demon are:
 				LOOK IN TRUE DEMON TYPE TAB
+		+True Demon at level 5.
 		+Souls required for spells and later sustinance.
 			-Souls aquired by contracts with NPCs.
 				+Only a small percent chance a villager is willing to make a contract.
@@ -53,10 +55,10 @@ Ideas:
 		  lvl 4: 1500 SP
 		  lvl 5: 3000 SP
 		  lvl 6: 5000 SP
-		  lvl 7: 10000 SP
-		  lvl 8: 15000 SP
-		  lvl 9: 20000 SP
-		  lvl 10: 30000 SP
+		  lvl 7: 8000 SP
+		  lvl 8: 12000 SP
+		  lvl 9: 16000 SP
+		  lvl 10: 24000 SP
 			-Only Demon Hunters can have souls lvl 6 and up.
 		+Demon:
 		  lvl 1: 1000 SP
@@ -77,26 +79,27 @@ Ideas:
 		  lvl 0: 100 SP				+0%
 		  lvl 1: 300 SP				+2%
 		  lvl 2: 600 SP				+4%
-		  lvl 3: 800 SP				+8%
-		  lvl 4: 1200 SP			+12%
-		  lvl 5: 2000 SP			+18%
-		  lvl 6: 4000 SP			+22%
-		  lvl 7: 7500 SP			+27%
-		  lvl 8: 10000 SP			+32%
+		  lvl 3: 1000 SP			+8%
+		  lvl 4: 2000 SP			+12%
+		  lvl 5: 3000 SP			+18%
+		  lvl 6: 5000 SP			+22%
+		  lvl 7: 8000 SP			+27%
+		  lvl 8: 12000 SP			+32%
 		  lvl 9: 20000 SP			+35%
 		  lvl 10: 30000 SP			+40%
 		  lvl 11: 50000 SP			+45%
 		  lvl 12: 75000 SP			+50%
 		  lvl 13: 100000 SP			+60%
 
-	Spell List:
+	Spell List: (Note: 1 Damage/Heal=Half a heart)
 		+Human Disguise: Disguise as a human.
-			-Soul Cost: 0.25 SP/Minute
+			-Toggleable ability
+			-Soul Cost: 0.5 SP/Minute
 			-Required Level: 1
 		+Twist Flesh: Twist their flesh, dealing armour-piercing damage.
 			-Damage: 2+1(lvl)
 			  lvl 5: 4+1.5(lvl)
-			-Soul Cost: 50 SP/use +50 SP(lvl)
+			-Soul Cost: 50 SP/use +50(lvl)
 			-Required Level: 2
 		+Twist Limb: Twist a limb, causing slowness and weakness
 			-Damage: 4+1(lvl)
@@ -120,3 +123,56 @@ Ideas:
 			  lvl 12: Max mobs=50
 			-Soul Cost: 400 SP/use +100(lvl)
 			-Required Level: 2
+		+Extreme Speed: Move at incredible speeds, almost as if teleporting. 
+			-Soul Cost: 200 SP/use +200(lvl)
+			-Required Level: 5
+		+Agility Boost: Move at increased speeds and jump higher.
+			-Toggleable ability
+			-Able to change speed and jump boost for cheaper cost
+			  lvl 1-4: Speed I and Jump I
+			  lvl 5-8: Speed II and Jump II
+			  lvl 9-12: Speed III and Jump III
+			  lvl 13: Speed IV and Jump IV
+			-Soul Cost:
+			  Boost I: 0 SP/minute
+			  Boost II: 15 SP/minute, lvl 10+ 0 SP/minute
+			  Boost III: 50 SP/minute
+			  Boost IV: 100 SP/minute
+			-Required Level: 1
+		+Strength Boost: Increase your natural demon strength.
+			-Toggleable ability
+			-Able to change strength and haste boost for cheaper cost
+			  lvl 1-4: Strength I and Haste I
+			  lvl 5-8: Strength II and Haste II
+			  lvl 9-12: Strength III and Haste III
+			  lvl 13: Strength IV and Haste IV
+			-Soul Cost:
+			  Boost I: 0 SP/minute
+			  Boost II: 15 SP/minute, lvl 10+ 0 SP/minute
+			  Boost III: 50 SP/minute
+			  Boost IV: 100 SP/minute
+			-Required Level: 1
+		+Demon Regeneration: Heal at an incredible rate. Luckily, Demons already have a much higher natural regeneration.
+			-Toggleable ability
+			-Able to change regeneration boost for cheaper cost
+			  lvl 1-4: Regen I
+			  lvl 5-8: Regen II
+			  lvl 9-12: Regen III
+			  lvl 13: Regen IV
+			-Soul Cost:
+			  Boost I: 0 SP/minute
+			  Boost II: 40 SP/minute, lvl 10+ 0 SP/minute
+			  Boost III: 120 SP/minute
+			  Boost IV: 300 SP/minute
+			-Required Level: 1
+		+Demon Aura: Regenerates health of nearby enthralled creatures.
+			  lvl 5-8: Regen II
+			  lvl 9-12: Regen III
+			  lvl 13: Regen IV
+			-Soul Cost: 1 SP/second
+			-Required Level: 5
+		+Heal: Use Demon Magic to heal a player.
+			-Heal: 1+1(lvl)
+			  lvl 5: 3+1.5(lvl)
+			-Soul Cost: 250 SP/use +100(lvl)
+			-Required Level: 3
