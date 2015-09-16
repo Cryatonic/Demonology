@@ -153,11 +153,9 @@ Ideas:
 
 	Toggleable Ability List:
 		+Human Disguise: Disguise as a human.
-			-Toggleable ability
 			-Soul Cost: 0.01 SP/second
 			-Required Level: 1
 		+Agility Boost: Move at increased speeds and jump higher.
-			-Toggleable ability
 			-Able to change speed and jump boost for cheaper cost
 			  lvl 1-4: Speed I and Jump I
 			  lvl 5-8: Speed II and Jump II
@@ -170,7 +168,6 @@ Ideas:
 			  Boost IV: 15 SP/second
 			-Required Level: 1
 		+Strength Boost: Increase your natural demon strength.
-			-Toggleable ability
 			-Able to change strength and haste boost for cheaper cost
 			  lvl 1-4: Strength I and Haste I
 			  lvl 5-8: Strength II and Haste II
@@ -183,7 +180,6 @@ Ideas:
 			  Boost IV: 15 SP/second
 			-Required Level: 1
 		+Demon Regeneration: Heal at an incredible rate. Luckily, Demons already have a much higher natural regeneration.
-			-Toggleable ability
 			-Able to change regeneration boost for cheaper cost
 			  lvl 1-4: Regen I
 			  lvl 5-8: Regen II
@@ -196,7 +192,6 @@ Ideas:
 			  Boost IV: 15 SP/second
 			-Required Level: 1
 		+Extreme Agility: Dodge incoming, non-magic projectiles.
-			-Toggleable ability
 			-When Inactive:
 			  lvl 5: Automatic 20% chance to dodge projectiles and 15% chance to dodge melee attacks
 			  lvl 10: Automatic 30% chance to dodge projectiles and 25% chance to dodge melee attacks
