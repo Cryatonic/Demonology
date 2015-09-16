@@ -17,8 +17,9 @@ Ideas:
 		+Can make contracts with demons for spells, but at a cost.
 		+Can overthrow demons that have contracts with you to reclaim your contracts.
 		+Spells given by demons may have reprocussions, but can be permanently learned with no reprocussions if you overthrow the demon.
-		+Demons have naturally higher physical and magical resistance and health.
+		+Demons have naturally higher physical and magical resistance, knockback resistance, and health.
 			Statistics of Health Boost and Resistance in BOOSTS TAB.
+		+Reprocussions for staying in undisguised form are Demon Hunters will arrive sooner, more often, and in larger numbers for each failed attempt at your life.
 	Souls-
 		+Souls obtained by making contracts with NPC humans/demons or killing Demons/Demon Hunters.
 		+Different level souls give differing amounts of Soul Points.
@@ -63,12 +64,26 @@ Ideas:
 			-As you become more mutated, villagers will stop trading with you and eventually flee from you.
 			-Once you become a True Demon, then one no longer appears mutated.
 	True Demon Types:
-		+
+		+Raven Demon: Speedy, using quick moves and spells.
+			-Flight
+		+Hound Demon: Strong, using powerful spells and is able to track down humans and demons.
+			-Ability to track down humans and demons
+		+Spider Demon: Cunning, using tricky spells and invisibility.
+			-Ability to become invisible
+		+Raven/Hound Hybrid: Speedy and Strong, using quick yet fairly strong spells.(Only available by obtainind special Hybrid Research)
+			-Flight
+			-Ability to track down humans and demons
+		+Hound/Spider Hybrid: Strong and Cunning, using tricky and strong spells.(Only available by obtainind special Hybrid Research)
+			-Ability to track down humans and demons
+			-Ability to become invisible
+		+Spider/Raven Hybrid: Speedy and Cunning, using quick and tricky spells.(Only available by obtainind special Hybrid Research)
+			-Flight
+			-Ability to become invisible
 
 	Soul Value:
 		+Human:
 		  lvl 1: 500 SP
-		  lvl 2: 650 SP
+		  lvl 2: 700 SP
 		  lvl 3: 1000 SP
 		  lvl 4: 1500 SP
 		  lvl 5: 3000 SP
@@ -112,43 +127,56 @@ Ideas:
 
 	Boosts:(1 Health Boost=+1 Heart)
 		+Level 1: +5% Physical Resistance
-			  +0% Magic Resistance
+			  -10% Magic Resistance
+			  +20% Knockback Resistance
 			  +0 Health Boost
 		+Level 2: +10% Physical Resistance
-			  +5% Magic Resistance
+			  -5% Magic Resistance
+			  +25% Knockback Resistance
 			  +0 Health Boost
 		+Level 3: +10% Physical Resistance
-			  +10% Magic Resistance
+			  +0% Magic Resistance
+			  +30% Knockback Resistance
 			  +2 Health Boost
 		+Level 4: +15% Physical Resistance
-			  +15% Magic Resistance
+			  +5% Magic Resistance
+			  +35% Knockback Resistance
 			  +2 Health Boost
 		+Level 5: +30% Physical Resistance
-			  +30% Magic Resistance
+			  +10% Magic Resistance
+			  +50% Knockback Resistance
 			  +5 Health Boost
 		+Level 6: +35% Physical Resistance
-			  +30% Magic Resistance
+			  +10% Magic Resistance
+			  +55% Knockback Resistance
 			  +5 Health Boost
 		+Level 7: +35% Physical Resistance
-			  +35% Magic Resistance
+			  +10% Magic Resistance
+			  +60% Knockback Resistance
 			  +10 Health Boost
 		+Level 8: +40% Physical Resistance
-			  +35% Magic Resistance
+			  +15% Magic Resistance
+			  +65% Knockback Resistance
 			  +10 Health Boost
 		+Level 9: +50% Physical Resistance
-			  +40% Magic Resistance
+			  +15% Magic Resistance
+			  +70% Knockback Resistance
 			  +15 Health Boost
 		+Level 10: +60% Physical Resistance
-			   +50% Magic Resistance
+			   +20% Magic Resistance
+			   +75% Knockback Resistance
 			   +20 Health Boost
 		+Level 11: +70% Physical Resistance
-			   +60% Magic Resistance
+			   +20% Magic Resistance
+			   +80% Knockback Resistance
 			   +25 Health Boost
 		+Level 12: +85% Physical Resistance
-			   +60% Magic Resistance
+			   +20% Magic Resistance
+			   +90% Knockback Resistance
 			   +30 Health Boost
 		+Level 13: +99% Physical Resistance
-			   +65% Magic Resistance
+			   +25% Magic Resistance
+			   +99% Knockback Resistance
 			   +40 Health Boost
 
 	Toggleable Ability List:
@@ -231,6 +259,18 @@ Ideas:
 			  lvl 12: Max mobs=50
 			-Soul Cost: 300 SP/use +100(lvl)
 			-Required Level: 2
+		+Heal: Use Demon Magic to heal a player.
+			-Heal: 1+1(lvl)
+			  lvl 5: 3+1.5(lvl)
+			-Soul Cost: 250 SP/use +100(lvl)
+			-Required Level: 3
+
+	True Demon Spell List: (Can only be used in True Demon Form)
+		+Damaging Aura: Damages any non-enthralled creature in a 5 block radius.
+			-Damage: 1+1(lvl/2)
+			  lvl 10: 2+1(lvl/2)
+			-Soul Cost: 100 SP/second
+			-Required Level: 7
 		+Extreme Speed: Move at incredible speeds, almost as if teleporting. 
 			-Soul Cost: 250 SP/use +150(lvl)
 			-Required Level: 5
@@ -240,26 +280,85 @@ Ideas:
 			  lvl 13: Regen IV
 			-Soul Cost: 1 SP/second
 			-Required Level: 5
-		+Heal: Use Demon Magic to heal a player.
-			-Heal: 1+1(lvl)
-			  lvl 5: 3+1.5(lvl)
-			-Soul Cost: 250 SP/use +100(lvl)
-			-Required Level: 3
-		+Extreme Agility: Dodge incoming, non-magic projectiles.
-			-Toggleable ability
-			-When Inactive:
-			  lvl 5: Automatic 20% chance to dodge projectiles and 15% chance to dodge melee attacks
-			  lvl 10: Automatic 30% chance to dodge projectiles and 25% chance to dodge melee attacks
-			  lvl 13: Automatic 50% chance to dodge projectiles and 40% chance to dodge melee attacks
-			-When Active:
-			  lvl 5: 90% chance to dodge projectiles and 40% chance to dodge melee attacks
-			  lvl 10: 95% chance to dodge projectiles and 50% chance to dodge melee attacks
-			  lvl 13: 99% chance to dodge projectiles and 70% chance to dodge melee attacks
-			-Soul Cost: 5 SP/Projectile +5(lvl)
-			-Required level: 5
-
-	True Demon Spell List: (Can only be used in True Demon Form)
-		+Damaging Aura: Damages any non-enthralled creature in a 5 block radius.
-			-Damage: 1+1(lvl/2)
-			  lvl 10: 2+1(lvl/2)
-			-Soul Cost: 
+			-Required Level: 5
+	Raven Spells:
+		Feather Dart: Shoot a feather.
+			-Damage: 3+1(lvl)
+			-Soul Cost: 5 SP/use
+			-Required Level: 5
+			-Reprocussions:
+			  5 second cooldown
+			  Deals 1 heart of damage to self
+		Feather Barrage: Shoot a volley of 3 feathers. 
+			-Damage: 3+1(lvl) each		
+			-Soul Cost: 50 SP/use
+			-Required Level: 7
+			-Reprocussions:
+			  15 second cooldown
+			  Deals 2 hearts of damage to self
+		Feather Storm: Surrounded by feathers, damaging nearby mobs in 8 block radius; lasts 10 seconds; 
+				unable to be dodged by Extreme Agility.
+			-Damage: 1+1.5(lvl) each
+			-Soul Cost: 100 SP/feather
+			-Required Level: 10
+			-Reprocussions:
+			  60 second cooldown
+			  Only shoots at mobs at a frequency of 1 feather per second
+			  Deals 5 hearts od damage to self upon use
+		Feathered Tomb: Surrounds targeted creature with feathers and all strike after 2 seconds.
+			-Damage: 40
+			-Soul Cost: 1500 SP/use
+			-Required Level: 13
+			-Reprocussions:
+			  120 second cooldown
+			  Takes 2 seconds to channel
+			  Immobilized during channel
+			  Deals 5 hearts damage to self
+		Aerial Dash: When used while flying, dash to target and slash target.
+			-Damage: 7+1.5(lvl)
+			-Soul Cost: 300 SP/use +150(lvl)
+			-Required Level: 7
+			-Reprocussions:
+			  20 second cooldown
+			  Applies Slowness I for 3 seconds after use
+	Hound Spells:
+		Flame Breath: Shoot a spray of fire from your mouth, setting target ablaze.
+			-Damage: Burning for 10+5(lvl) seconds
+			-Soul Cost: 20 SP/use
+			-Required Level: 5
+			-Reprocussions:
+			  5 second cooldown
+			  Immobilizes you for 1 second
+			  Range of 3+1(lvl/2) blocks, 3 blocks wide
+		Infernal Bolt: Shoot a bolt of hellfire, dealing damage and setting target ablaze.
+			-Damage: 5+1.5(lvl) +Burning for 5+2(lvl) seconds
+			-Soul Cost: 70 SP/use
+			-Required Level: 7
+			-Reprocussions:
+			  20 second cooldown
+			  Moderate Speed projectile
+		Hellfire Blast: Shoot a Ghast Ball, exploding for damage and setting 5x5 area on fire.
+			-Damage: 8+2(lvl)
+			-Soul Cost: 150 SP/use
+			-Required Level: 10
+			-Reprocussions:
+			  60 second cooldown
+			  Slow Speed projectile
+			  Can be hit back
+		Cerberus' Meltdown: Blast target with a large lava blast; 12x12 block area set ablaze.
+			-Damage: 52
+			-Soul Cost: 2000 SP/use
+			-Required Level: 13
+			-Reprocussions:
+			  120 second cooldown
+			  Slow Speed projectile
+			  Can be damaged by own projectile, but only 1/2 the damage
+		Hellhound: Summons a Hellhound to attack target.
+			-Damage: 8
+			-Soul Cost: 400 SP/use
+			-Duration: 20+10(lvl) seconds
+			-Required Level: 7
+			-Reprocussions:
+			  45 second cooldown
+			  Summon can be killed
+			  Can only have a max of two at a time
